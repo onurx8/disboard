@@ -1,0 +1,14 @@
+{
+    "name": "disboard-selfbot",
+    "version": "1.0.0",
+    "description": "Disboard bump yapan bir Discord self-bot",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {
+      "discord.js-selfbot-v13": "^3.2.0"
+    },
+    "author": "onurcan",
+    "license": "MIT"
+  }
