@@ -41,6 +41,3 @@ Yine de yardım gerekiyorsa gel buraya:
 
 # 👊 Yallah Artık, Kur Botu!
 
-**Bu kadar basit şeyi yapamıyosan**, yazılım sana göre değil.  
-Yazılım dünyasında **salaklıkla işin olamaz**.  
-Git **kur**, artistlik yapma, **vakit kaybetme amk.**
