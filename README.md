@@ -41,3 +41,13 @@ Yine de yardım gerekiyorsa gel buraya:
 
 # 👊 Yallah Artık, Kur Botu!
 
+# BOT TANITIM RESİMLERİ
+<details>
+  <summary>ÜŞENİYORSAN BAK</summary> 
+
+![image](https://github.com/user-attachments/assets/b9d46439-2fad-4cd7-a8f9-bb09b72c1c39)
+![image](https://github.com/user-attachments/assets/e5b646a6-b1e3-45ff-8d47-d04c90e57a8d)
+![image](https://github.com/user-attachments/assets/909da26a-3214-4332-a3c3-6a8be4e0a604)
+
+
+</details>
